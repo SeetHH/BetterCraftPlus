@@ -1,4 +1,7 @@
 
+![minecraft_title2](https://github.com/SeetHH/BetterCraftPlus/assets/96089761/afd0f007-f2d3-4976-b375-8da99144b6a9)
+
+[BUGS](https://github.com/SeetHH/BetterCraftPlus/issues) · [SUGGESTIONS]()
 
 
 ## About📖
